@@ -51,3 +51,7 @@ body{
 .search.active .textInput {
   width: 200px;
 }
+
+.search.active .btn {
+  transform: translateX(-198px); /* this actually moves the search icon */
+}
