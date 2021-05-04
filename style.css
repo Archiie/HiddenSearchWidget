@@ -53,5 +53,5 @@ body{
 }
 
 .search.active .btn {
-  transform: translateX(-198px); /* this actually moves the search icon */
+  transform: translateX(198px); /* this actually moves the search icon */
 }
